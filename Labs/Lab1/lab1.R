@@ -52,7 +52,7 @@ vec2[2]
 
 # Matrix 
 m <- c(1:10)
-m
+mR
 matrix(m,nrow = 2)
 matrix(1:12,byrow = FALSE,nrow = 4)
 matrix(1:12,byrow = TRUE,nrow = 4)
